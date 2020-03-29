@@ -1,0 +1,7 @@
+URL="https://opensource-demo.orangehrmlive.com/"
+USERNAME="Admin"
+PASSWORD="admin123"
+EMPNAME="Fiona Grace"
+EMPPASSWORD="Pass@123456789"
+EXPECTEDPAGETITLE="OrangeHRM"
+EXPECTEDMSG="Successfully Saved\nClose"

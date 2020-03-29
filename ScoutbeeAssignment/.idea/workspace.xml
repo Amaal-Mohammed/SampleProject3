@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="320ee86f-e46b-4ad8-8da8-b84d10f3d79a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZkPWt99QBsDBHaYI7L01heHNOO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\amal.mohamed.FLAIRSTECH\PycharmProjects\Task\OrangeHrmLive" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for OrangeHrmLiveWebSite.Tests.login_test.LoginTests.test_login_valid">
+    <configuration name="LoginTests" type="tests" factoryName="Unittests">
+      <module name="ScoutbeeAssignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;OrangeHrmLiveWebSite.Tests.login_test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for OrangeHrmLiveWebSite.Tests.login_test.LoginTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ScoutbeeAssignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OrangeHrmLiveWebSite/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;OrangeHrmLiveWebSite.Tests.login_test.LoginTests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for OrangeHrmLiveWebSite.Tests.login_test.LoginTests.test_login_valid" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ScoutbeeAssignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OrangeHrmLiveWebSite/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;OrangeHrmLiveWebSite.Tests.login_test.LoginTests.test_login_valid&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.LoginTests" />
+      <item itemvalue="Python tests.Unittests for OrangeHrmLiveWebSite.Tests.login_test.LoginTests.test_login_valid" />
+      <item itemvalue="Python tests.Unittests for OrangeHrmLiveWebSite.Tests.login_test.LoginTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for OrangeHrmLiveWebSite.Tests.login_test.LoginTests.test_login_valid" />
+        <item itemvalue="Python tests.Unittests for OrangeHrmLiveWebSite.Tests.login_test.LoginTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="320ee86f-e46b-4ad8-8da8-b84d10f3d79a" name="Default Changelist" comment="" />
+      <created>1585380153699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585380153699</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="127" y="4" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585429165078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="127" y="4" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585429165078" />
+    <state x="437" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585434417493">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585434417493" />
+    <state x="402" y="136" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585415599331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="136" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1585415599331" />
+    <state x="453" y="91" key="FileChooserDialogImpl" timestamp="1585380621110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="453" y="91" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585380621110" />
+    <state width="1345" height="268" key="GridCell.Tab.0.bottom" timestamp="1585444670753">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="268" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585444670753" />
+    <state width="1345" height="268" key="GridCell.Tab.0.center" timestamp="1585444670753">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="268" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585444670753" />
+    <state width="1345" height="268" key="GridCell.Tab.0.left" timestamp="1585444670753">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="268" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585444670753" />
+    <state width="1345" height="268" key="GridCell.Tab.0.right" timestamp="1585444670753">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="268" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585444670753" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1585459498917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585459498917" />
+    <state x="381" y="173" key="com.intellij.ide.util.TipDialog" timestamp="1585431529372">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="381" y="173" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585431529372" />
+  </component>
+</project>
